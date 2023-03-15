@@ -1,0 +1,2 @@
+- name: jacoco-reporter
+  uses: PavanMudigonda/jacoco-reporter@v4.8
